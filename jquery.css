@@ -1,0 +1,44 @@
+
+
+#header{
+    margin-top: -30px;
+    padding: 0px 0px 700px 0px;
+    background-image: url("https://images.pexels.com/photos/343871/pexels-photo-343871.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+    background-repeat: no-repeat;
+
+}
+
+#title{
+    font-size: 50px;
+    padding: 0px 40px ;
+    margin: 0px 0px;
+
+}
+.nav{
+    position: absolute;
+    padding: 0px 10px 0px 700px;
+}
+.nav-item{
+    padding: 0px 50px;
+    margin: -40px 0px 0px 0px;
+}
+
+
+
+.btn{
+    background-color: blue;
+    display: inline-block;
+    cursor: pointer;
+    padding: 20px 100px;
+    box-shadow: 5px black;
+    border-radius: 10px;
+    color: aliceblue;
+    font-size: 15px;
+    margin: 100px 100px;
+}
+
+.btn:active {
+    position: relative;
+    top: 5px;
+    box-shadow: none;
+  }
